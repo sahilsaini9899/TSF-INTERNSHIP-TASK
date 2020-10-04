@@ -1,5 +1,5 @@
 # TSF-INTERNSHIP-TASK
-This is one of the tasks given to us in the internship we are doing with The Sparks Foundation i.e GRIP(Graduate Rotational Internship Program )
+This is one of the tasks given to us in the internship we are doing with The Sparks Foundation i.e GRIP(Graduate Rotational Internship Program)
 
 Task 2 - To Explore Unsupervised Machine Learning From the given ‘Iris’ dataset,we will predict the optimum number of clusters and represent it visually.
 
